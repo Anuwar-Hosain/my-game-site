@@ -16,11 +16,15 @@ p {
   font-weight: 500;
   opacity: 0.8;
 }
+h2 {
+  cursor: pointer;
+}
 
 h3 {
   color: #426696;
   font-weight: 600;
   opacity: 0.8;
+  cursor: pointer;
 }
 
 main {
